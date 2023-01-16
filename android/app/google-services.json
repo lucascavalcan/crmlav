@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "165821714909",
+    "project_id": "onboard-72490",
+    "storage_bucket": "onboard-72490.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:165821714909:android:2511fe0a5c42e38fcfe634",
+        "android_client_info": {
+          "package_name": "com.mycompany.crmapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "165821714909-7mc1p14307oies0q929tlnuslhs379p4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC5y08iguG1xaDNGkH6reuqGEWYi4pkpPg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "165821714909-7mc1p14307oies0q929tlnuslhs379p4.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "165821714909-4j1lmoal56ak0i6fpjmb576ib27qs8qg.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.mycompany.crmapp"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
