@@ -19,6 +19,10 @@ void main() async {
   WidgetsFlutterBinding.ensureInitialized();
   await initFirebase();
 
+  await Firebase.initializeApp(
+    options: DefaultFirebaseOptions.currentPlatform,
+  );
+
   await FlutterFlowTheme.initialize();
 
   runApp(MyApp());
