@@ -1,3 +1,5 @@
+// ignore_for_file: unused_import
+
 import '../components/modal_welcome_widget.dart';
 import '../flutter_flow/flutter_flow_animations.dart';
 import '../flutter_flow/flutter_flow_theme.dart';
